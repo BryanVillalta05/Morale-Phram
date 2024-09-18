@@ -6,5 +6,5 @@
 - José Guillermo Argueta Méndez 100%
 - Bryan Manuel Gonzalez Villalta 100%
 
-# Link del video
+# Link del video <img src="https://clipart-library.com/img/1279251.png" alt="Black Star" width=25>
 - https://youtu.be/VmVRRaj2LXQ
