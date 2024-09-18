@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "380619890432",
+    "project_id": "farm-6d3eb",
+    "storage_bucket": "farm-6d3eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380619890432:android:df46bc415bd665fb1f1de5",
+        "android_client_info": {
+          "package_name": "com.example.desafio2_dsm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4g2_g1f4lPgYdoLXahO0QwIhbwUVQ-Dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380619890432:android:af4aaa7013c5e8e31f1de5",
+        "android_client_info": {
+          "package_name": "com.example.moralepharm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4g2_g1f4lPgYdoLXahO0QwIhbwUVQ-Dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

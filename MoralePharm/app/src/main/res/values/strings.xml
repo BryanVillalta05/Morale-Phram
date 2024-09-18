@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Morale Pharm</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="registro">Bienvenido, ingrese sus datos</string>
+    <string name="mail">Correo Electronico</string>
+    <string name="password">Contraseña</string>
+    <string name="login_button">Entrar</string>
+    <string name="registro_btn">¿Ya tienes una cuenta?</string>
+    <string name="login_btn">¿No tienes una cuenta?</string>
+    <string name="menu_title">Menú Principal</string>
+    <string name="select_medicine">Seleccionar Medicamento</string>
+    <string name="bak">Volver</string>
+    <string name="view_ventas">Mostrar Historial</string>
+    <string name="price">Precio</string>
+    <string name="add_to_order">Añadir a la orden</string>
+    <string name="total_order">Bienvenido, seleccione sus medicamentos</string>
+    <string name="history">Historial de ventas</string>
+    <string name="purchase_history">Historial de compras</string>
+    <string name="toast_message">Operación exitosa</string>
+</resources>
